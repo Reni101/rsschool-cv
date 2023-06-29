@@ -8,7 +8,7 @@
 ---
 ## About me
 
-####Front-end (React) Developer with 1+ year experience in building user-friendly web applications. Proficient in HTML, CSS, JavaScript, and ReactJs, I have a strong passion for creating visually appealing and functional web pages. With a focus on clean code and a desire to continuously improve, I am eager to bring my skills and creativity to a challenging and dynamic work environment.
+#### Front-end (React) Developer with 1+ year experience in building user-friendly web applications. Proficient in HTML, CSS, JavaScript, and ReactJs, I have a strong passion for creating visually appealing and functional web pages. With a focus on clean code and a desire to continuously improve, I am eager to bring my skills and creativity to a challenging and dynamic work environment.
 ---
 ## Skils
 - HTML
