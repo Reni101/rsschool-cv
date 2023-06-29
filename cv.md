@@ -30,12 +30,12 @@ const isPalindrome = (str) => {
 ```
 ---
 ## Experience
-- React-based web application for searching job vacancies. https://github.com/Reni101/test-task-summer-2023
-- React application that helps users learn and memorize information. https://github.com/Reni101/Cards-app
+[Jobored](https://github.com/Reni101/test-task-summer-2023)
+[Cards](https://github.com/Reni101/Cards-app)
 ---
 ## Education
-- It-incubator - 2022
-- Belarusian state medical university(doctor) - 2012-2018
+It-incubator - 2022
+Belarusian state medical university(doctor) - 2012-2018
 ---
 ## Languages
-- English - B1 in progress
+English - B1 in progress
