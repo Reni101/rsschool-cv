@@ -4,7 +4,7 @@
 ## Contacts:
 - Email : renigano@gmail.com
 - Telegram : @Reni101
-- #### LinkedIn : https://www.linkedin.com/in/maxim-dmitriev101/
+- LinkedIn : https://www.linkedin.com/in/maxim-dmitriev101/
 ---
 ## About me
 
@@ -30,8 +30,8 @@ const isPalindrome = (str) => {
 ```
 ---
 ## Experience
-####[Jobored](https://github.com/Reni101/test-task-summer-2023)
-####[Cards](https://github.com/Reni101/Cards-app)
+#### [Jobored](https://github.com/Reni101/test-task-summer-2023)
+#### [Cards](https://github.com/Reni101/Cards-app)
 ---
 ## Education
 It-incubator - 2022
