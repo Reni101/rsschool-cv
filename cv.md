@@ -4,11 +4,11 @@
 ## Contacts:
 - Email : renigano@gmail.com
 - Telegram : @Reni101
-- LinkedIn : https://www.linkedin.com/in/maxim-dmitriev101/
+- #### LinkedIn : https://www.linkedin.com/in/maxim-dmitriev101/
 ---
 ## About me
 
-Front-end (React) Developer with 1+ year experience in building user-friendly web applications. Proficient in HTML, CSS, JavaScript, and ReactJs, I have a strong passion for creating visually appealing and functional web pages. With a focus on clean code and a desire to continuously improve, I am eager to bring my skills and creativity to a challenging and dynamic work environment.
+####Front-end (React) Developer with 1+ year experience in building user-friendly web applications. Proficient in HTML, CSS, JavaScript, and ReactJs, I have a strong passion for creating visually appealing and functional web pages. With a focus on clean code and a desire to continuously improve, I am eager to bring my skills and creativity to a challenging and dynamic work environment.
 ---
 ## Skils
 - HTML
@@ -30,8 +30,8 @@ const isPalindrome = (str) => {
 ```
 ---
 ## Experience
-[Jobored](https://github.com/Reni101/test-task-summer-2023)
-[Cards](https://github.com/Reni101/Cards-app)
+####[Jobored](https://github.com/Reni101/test-task-summer-2023)
+####[Cards](https://github.com/Reni101/Cards-app)
 ---
 ## Education
 It-incubator - 2022
