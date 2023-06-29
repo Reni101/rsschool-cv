@@ -34,8 +34,8 @@ const isPalindrome = (str) => {
 #### [Cards](https://github.com/Reni101/Cards-app)
 ---
 ## Education
-It-incubator - 2022
-Belarusian state medical university(doctor) - 2012-2018
+- It-incubator - 2022
+- Belarusian state medical university(doctor) - 2012-2018
 ---
 ## Languages
 English - B1 in progress
