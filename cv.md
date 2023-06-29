@@ -35,7 +35,7 @@ const isPalindrome = (str) => {
 ---
 ## Education
 - It-incubator - 2022
-- BSMU(doctor) - 2012-2018
+- Belarusian state medical university(doctor) - 2012-2018
 ---
 ## Languages
 - English - B1 in progress
