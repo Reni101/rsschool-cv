@@ -1,0 +1,37 @@
+.body {
+    box-sizing: border-box;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+main h2 {
+    text-align: center;
+}
+
+main .contacts_container, .aboutMe_container {
+    max-width: 1280px;
+}
+
+.experience_container > a {
+    text-align: center;
+    margin-right: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
