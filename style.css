@@ -30,8 +30,15 @@ main .contacts_container, .aboutMe_container {
     margin-right: 20px;
 }
 
-footer {
+footer  {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 40px;
+}
+
+
+.rs_img{
+    width: 100px;
+    height: 100px;
 }
